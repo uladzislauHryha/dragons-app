@@ -1,0 +1,1 @@
+export const SPELLS_PER_PAGE: number = 10;

@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.App {
+	background-color: #e6e4e4;
+	min-height: 100vh;
+}
+
+.spell-card {
+	background-color: #ffffff;
+}
